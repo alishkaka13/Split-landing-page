@@ -35,7 +35,7 @@ Html Side
 </html>
 
 
-CSS Side
+
 :root{
 
 --container-bg-color: #333;
@@ -212,7 +212,7 @@ z-index: 2;
     
 }
 
-Javascript Side
+
 
 const left = document.querySelector('.left');
 const right = document.querySelector('.right');
